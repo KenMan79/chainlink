@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- Improved performance of the transaction manager that should help prevent the node from getting stuck when processing large numbers of OCR jobs.
+
 ## [0.9.10] - 2021-01-30
 
 ### Fixed
